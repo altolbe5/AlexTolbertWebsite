@@ -22,6 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor of Data and Decision Sciences
+    company: Emory University
+    company_url: 'https://datascience.emory.edu/people/bios/tolbert-alexander.html'
+    company_logo:  
+    location: Atlanta, GA
+    date_start: '2024-08-01'
+    date_end: ''
+    description: |2-
+        Secondary appointments in Philosophy, Computer Science, and African American Studies.
+        Faculty Fellow, Emory Center for Ethics. Faculty Affiliate, Center for Mind, Brain, and Culture.
+
+  - title: Postdoctoral Fellow
+    company: Emory University
+    company_url: ''
+    company_logo:  
+    location: Atlanta, GA
+    date_start: '2023-08-01'
+    date_end: '2024-07-31'
+    description:  
+
   - title: Research Scientist II Intern
     company: Amazon Web Services
     company_url: ''
