@@ -34,11 +34,6 @@ content:
     country: United States
     country_code: US
   directions: Department of Data and Decision Sciences, Emory University
-  office_hours:
-    - 'To be determined'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-
 design:
   columns: '2'
 ---
