@@ -37,16 +37,10 @@ role: Assistant Professor in the Department of Data and Decision Sciences at Emo
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: 'mailto:alexander.tolbert@emory.edu'
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=OGjoFXcAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/altolbe5
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/alexander-tolbert-bb445721a/
 superuser: true
 title: Alexander Williams Tolbert
 ---
