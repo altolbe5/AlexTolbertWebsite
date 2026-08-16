@@ -1,5 +1,5 @@
 ---
-Research: I work on causal inference, algorithmic fairness, and the philosophy of race.
+Research: Causal inference, algorithmic fairness, and the philosophy of science.
 education:
   courses:
   - course: PhD in Philosophy
@@ -22,13 +22,11 @@ email: "alexander.tolbert@emory.edu"
 first_name: Alexander 
 highlight_name: true
 interests:
-  - Philosophy of Science
   - Causal Inference
-  - Game Theory
-  - Machine Learning
-  - Social & Political Philosophy
-  - Philosophy, Politics & Economics
-  - Philosophy of Race
+  - Philosophy of Science
+  - Algorithmic Fairness
+  - Non-Ideal Theory
+  - Learning Theory
 last_name: Tolbert
 organizations:
 - name: Emory University
@@ -47,14 +45,14 @@ title: Alexander Williams Tolbert
 
 I am an Assistant Professor in the Department of Data and Decision Sciences at Emory University, with secondary appointments in Philosophy, Computer Science, and African American Studies. I am a Faculty Fellow at the Emory Center for Ethics and a Faculty Affiliate of the Center for Mind, Brain, and Culture.
 
-My work sits between philosophy of science and the technical literature on fairness in machine learning. Much of it turns on a single question: when we build a model of a social process, what are we committing ourselves to? I have argued that treating race as a causal variable forces choices about variable selection that are substantive rather than technical, and that the instability of racial effects across contexts constrains how realist we can be about race in social science.
+Most of my work begins with a problem in causal inference and follows it wherever it leads — sometimes to a theorem, sometimes to political philosophy. Causal models assume modularity: that variables can be intervened on independently of one another. Race does not obviously satisfy that assumption, and a good deal of what I have written works out what follows. I have argued for agnosticism about whether race is a cause, and for a restricted realism on which race is a stable kind only within limited domains. Both are more modest positions than they sound. I have also argued that causal inference is indispensable to algorithmic fairness even so, and that the modularity problem is better repaired with coarser macro-level abstractions than abandoned.
 
-A second strand asks what fairness criteria are actually for. Calibration, predictive invariance, and measurement invariance are often treated as interchangeable technical targets, but they answer to different questions and can pull apart. I have made the case that causal inference is not optional for algorithmic fairness, and that the reference class problem — which comparison group a prediction is relative to — has to be settled before a fairness claim means anything.
+A second line of work concerns what can be known about individuals as against populations. With Aaron Roth I have shown that the reference class problem, intractable for any single person, becomes tractable once predictions are made at scale, and that two parties who disagree about individual probabilities cannot rationally agree to disagree.
 
-I also work on how disadvantage compounds through algorithmic systems: how lending decisions can trap borrowers in subprime markets, how pessimism about one's own prospects becomes self-fulfilling, and what interventions can break those cycles. This work uses tools from learning theory, optimization, and game theory, and is usually done with collaborators in computer science.
+A third concerns traps: situations where a belief goes uncorrected because the evidence that would correct it never gets generated. A lender who overestimates a group's risk never lends to it and never learns otherwise; someone who expects little of their prospects acts in ways that confirm it. In both cases a finite, temporary subsidy is enough to break the cycle, and the corrected equilibrium survives its withdrawal.
 
-Recently I have been thinking about whether the ethical problems attributed to AI are distinctively about AI at all, or older problems of racial hierarchy appearing in new form.
+I also work on the political philosophy of these systems, drawing on Charles Mills and the non-ideal theory tradition, and have argued that a number of problems attributed to AI are older problems of racial hierarchy appearing in new form.
 
-I completed my Ph.D. in Philosophy at the University of Pennsylvania and earned a Masters in Statistics from the Wharton School at the same time. Before Penn I took master's degrees in Biochemistry and Philosophy at Virginia Tech, and a B.S. in Biology at the University of Mobile. I have also worked at Amazon Web Services as a Research Scientist Intern on algorithmic fairness and bias.
+I completed my Ph.D. in Philosophy at the University of Pennsylvania alongside a Masters in Statistics from the Wharton School. Before that I took master's degrees in Biochemistry and Philosophy at Virginia Tech and a B.S. in Biology at the University of Mobile.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tolbert-cv-2026.pdf" "newtab" >}}CV{{< /staticref >}}.
