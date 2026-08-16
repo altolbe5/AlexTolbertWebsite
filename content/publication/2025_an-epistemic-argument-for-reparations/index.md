@@ -1,5 +1,5 @@
 ---
-title: "An Epistemic Argument for Reparations"
+title: "An Epistemic Argument for Reparations: A Solution to the Problem of Social Stratification in Causal Modeling"
 authors:
   - Alexander Williams Tolbert
 date: "2025-04-18"

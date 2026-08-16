@@ -34,7 +34,7 @@ content:
     postcode: '30322'
     country: United States
     country_code: US
-  directions: Quantitative Theory & Methods Dept, Emory University
+  directions: Department of Data and Decision Sciences, Emory University
   office_hours:
     - 'To be determined'
   appointment_url: 'https://calendly.com'

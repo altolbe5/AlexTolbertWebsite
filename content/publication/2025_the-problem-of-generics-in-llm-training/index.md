@@ -2,7 +2,7 @@
 title: "The Problem of Generics in LLM Training"
 authors:
   - Alexander Williams Tolbert
-  - Nicholas Smith
+  - B. Smith
 date: "2025-06-01"
 publication: "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT), 1275–1280"
 publication_short: "FAccT 2025"
