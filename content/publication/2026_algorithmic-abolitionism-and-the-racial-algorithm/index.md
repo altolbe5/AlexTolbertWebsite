@@ -2,7 +2,7 @@
 title: "Algorithmic Abolitionism and the Racial Algorithm"
 authors:
   - Alexander Williams Tolbert
-date: "2026-01-01"
+date: "2026-03-10"
 publication: "In K. C. Elliott & T. Richards (Eds.), The Routledge Handbook of Values and Science"
 publication_short: "Routledge Handbook"
 publication_types: ["6"]

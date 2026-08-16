@@ -5,7 +5,7 @@ authors:
   - Sílvia Casacuberta
   - Emily R. Diana
   - Alexander Williams Tolbert
-date: "2025-06-01"
+date: "2025-06-23"
 publication: "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT), 3350–3369"
 publication_short: "FAccT 2025"
 publication_types: ["1"]

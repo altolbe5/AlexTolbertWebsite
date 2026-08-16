@@ -2,7 +2,7 @@
 title: "Correcting Underrepresentation and Intersectional Bias for Classification"
 authors:
   - Alexander Williams Tolbert
-date: "2026-01-01"
+date: "2026-04-01"
 publication: "American Philosophical Quarterly 63(2), 183"
 publication_short: "Am. Phil. Quarterly"
 publication_types: ["2"]

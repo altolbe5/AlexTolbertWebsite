@@ -38,10 +38,6 @@ content:
     - 'To be determined'
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/xanderdoesphil?lang=en'
 
 design:
   columns: '2'

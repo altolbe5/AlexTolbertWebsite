@@ -2,7 +2,7 @@
 title: "Is AI Ethics About AI?"
 authors:
   - Alexander Williams Tolbert
-date: "2026-01-01"
+date: "2026-08-14"
 publication: "Philosophical Studies, 1–41"
 publication_short: "Philosophical Studies"
 publication_types: ["2"]

@@ -5,7 +5,7 @@ authors:
   - Emily Diana
   - Kavya Ravichandran
   - Alexander Williams Tolbert
-date: "2026-01-01"
+date: "2026-03-14"
 publication: "Proceedings of the AAAI Conference on Artificial Intelligence"
 publication_short: "AAAI 2026"
 publication_types: ["1"]
