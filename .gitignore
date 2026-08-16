@@ -5,3 +5,12 @@
 .Rdata
 .httr-oauth
 .DS_Store
+
+# Hugo build output — regenerated on every build, Netlify builds from source
+public/
+resources/_gen/
+.hugo_build.lock
+
+# macOS
+.DS_Store
+**/.DS_Store
