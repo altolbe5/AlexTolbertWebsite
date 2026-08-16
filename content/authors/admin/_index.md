@@ -27,7 +27,7 @@ interests:
   - Philosophy, Politics, and Economics
   - Causal Inference
   - Machine Learning
-  - Social Modeling
+  - Computational Social Modeling
 last_name: Tolbert
 organizations:
 - name: Emory University
