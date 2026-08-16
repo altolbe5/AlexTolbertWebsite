@@ -1,5 +1,5 @@
 ---
-title: "Correcting Underrepresentation and Intersectional Bias for Classification"
+title: "Correcting Underrepresentation and Intersectional Bias in Machine Learning"
 authors:
   - Alexander Williams Tolbert
 date: "2026-04-01"

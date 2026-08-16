@@ -1,5 +1,5 @@
 ---
-title: "Contemporary Issues in Black Philosophy: Pluralism in Methodological Approaches"
+title: "Contemporary Issues in Black Philosophy"
 authors:
   - Miron J. Clay-Gilmore
   - Daniel Fryer

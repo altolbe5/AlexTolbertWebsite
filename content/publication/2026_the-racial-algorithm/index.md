@@ -1,5 +1,5 @@
 ---
-title: "The Racial Algorithm: AI and Scientific Legitimacy"
+title: "The Racial Algorithm: AI and Scientific Legitimacy Under the Racial Contract"
 authors:
   - Alexander Williams Tolbert
 date: "2026-06-19"
