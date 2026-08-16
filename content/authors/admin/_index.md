@@ -22,11 +22,12 @@ email: "alexander.tolbert@emory.edu"
 first_name: Alexander 
 highlight_name: true
 interests:
-  - Causal Inference
-  - Machine Learning
+  - AI Ethics
   - Philosophy of Science
   - Philosophy, Politics, and Economics
-  - AI Ethics
+  - Causal Inference
+  - Machine Learning
+  - Social Modeling
 last_name: Tolbert
 organizations:
 - name: Emory University
