@@ -1,5 +1,5 @@
 ---
-Research: My research sits at the intersection of causal inference, algorithmic fairness, and the philosophy of race.
+Research: I work on causal inference, algorithmic fairness, and the philosophy of race.
 education:
   courses:
   - course: PhD in Philosophy
@@ -38,12 +38,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/xanderdoesphil?lang=en
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=OGjoFXcAAAAJ&hl=en
@@ -59,10 +53,14 @@ title: Alexander Williams Tolbert
 
 I am an Assistant Professor in the Department of Data and Decision Sciences at Emory University, with secondary appointments in Philosophy, Computer Science, and African American Studies. I am a Faculty Fellow at the Emory Center for Ethics and a Faculty Affiliate of the Center for Mind, Brain, and Culture.
 
-I work on causal inference, algorithmic fairness, and the philosophy of race. My research usually starts from a question about how some social process actually operates — how lending decisions compound disadvantage, what it means to treat race as a cause, whether a fairness criterion is doing any real work — and then builds the smallest model that can say something definite about it. I draw on causal inference, learning theory, and game theory, and I care most about results that hold up outside the model.
+My work sits between philosophy of science and the technical literature on fairness in machine learning. Much of it turns on a single question: when we build a model of a social process, what are we committing ourselves to? I have argued that treating race as a causal variable forces choices about variable selection that are substantive rather than technical, and that the instability of racial effects across contexts constrains how realist we can be about race in social science.
 
-A theme running through most of it is that methodological choices carry normative weight. Which variables belong in a model, or which invariance a classifier ought to satisfy, are not purely technical questions, and philosophy of science has more to say about them than it usually does.
+A second strand asks what fairness criteria are actually for. Calibration, predictive invariance, and measurement invariance are often treated as interchangeable technical targets, but they answer to different questions and can pull apart. I have made the case that causal inference is not optional for algorithmic fairness, and that the reference class problem — which comparison group a prediction is relative to — has to be settled before a fairness claim means anything.
 
-I completed my Ph.D. in Philosophy at the University of Pennsylvania and earned a Masters in Statistics from the Wharton School at the same time. Before Penn I took master's degrees in Biochemistry and Philosophy at Virginia Tech, and a B.S. in Biology at the University of Mobile. I have also worked at Amazon Web Services as a Research Scientist Intern, on algorithmic fairness and bias.
+I also work on how disadvantage compounds through algorithmic systems: how lending decisions can trap borrowers in subprime markets, how pessimism about one's own prospects becomes self-fulfilling, and what interventions can break those cycles. This work uses tools from learning theory, optimization, and game theory, and is usually done with collaborators in computer science.
+
+Recently I have been thinking about whether the ethical problems attributed to AI are distinctively about AI at all, or older problems of racial hierarchy appearing in new form.
+
+I completed my Ph.D. in Philosophy at the University of Pennsylvania and earned a Masters in Statistics from the Wharton School at the same time. Before Penn I took master's degrees in Biochemistry and Philosophy at Virginia Tech, and a B.S. in Biology at the University of Mobile. I have also worked at Amazon Web Services as a Research Scientist Intern on algorithmic fairness and bias.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tolbert-cv-2026.pdf" "newtab" >}}CV{{< /staticref >}}.
