@@ -1,5 +1,5 @@
 ---
-Research: My research interests include distributed robotics, mobile computing, and programmable matter.
+Research: My research sits at the intersection of causal inference, algorithmic fairness, and the philosophy of race.
 education:
   courses:
   - course: PhD in Philosophy
@@ -75,4 +75,4 @@ Furthermore, my engagement extends to contemplating issues in political philosop
 In addition to my academic pursuits, I have gained industry experience working as a Research Scientist Intern and later as a Research Scientist II Intern at Amazon Web Services, where I engaged in research on algorithmic fairness and bias.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tolbert-cv-2026.pdf" "newtab" >}}CV{{< /staticref >}}.
