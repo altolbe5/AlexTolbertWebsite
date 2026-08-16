@@ -46,7 +46,7 @@ title: Alexander Williams Tolbert
 
 I am an Assistant Professor in the Department of Data and Decision Sciences at Emory University, with secondary appointments in Philosophy, Computer Science, and African American Studies. I am a Faculty Fellow at the Emory Center for Ethics and a Faculty Affiliate of the Center for Mind, Brain, and Culture.
 
-I work at the intersection of machine learning, causal inference, and philosophy. My research asks what statistical models are entitled to conclude about people, and what follows when those entitlements fail. The questions are partly technical, concerning the assumptions these methods depend on, and partly normative, concerning what fairness and justice require of the systems built on them. I publish in philosophy journals and in machine learning conference proceedings, usually with collaborators in computer science and economics.
+I work at the intersection of machine learning, causal inference, and philosophy. My research asks what statistical models are entitled to conclude about people, and what follows when those entitlements fail. The questions are partly technical, concerning the assumptions these methods depend on, and partly normative, concerning what fairness and justice require of the systems built on them.
 
 I completed my Ph.D. in Philosophy at the University of Pennsylvania alongside a Masters in Statistics from the Wharton School. Before that I took master's degrees in Biochemistry and Philosophy at Virginia Tech and a B.S. in Biology at the University of Mobile.
 
