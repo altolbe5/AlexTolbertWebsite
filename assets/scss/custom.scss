@@ -1,0 +1,143 @@
+/* ---------------------------------------------------------------------------
+   Typographic refinements. Source Serif 4 for reading, IBM Plex Sans for
+   navigation and labels; the palette lives in data/themes/tolbert.toml.
+   --------------------------------------------------------------------------- */
+
+/* The theme falls back to sans-serif behind a serif face. Give it real
+   serif fallbacks, and turn on Source Serif's optical sizing. */
+body,
+.article-style,
+.pub-list-item {
+  font-family: 'Source Serif 4', 'Charter', 'Iowan Old Style', Georgia, serif;
+  font-optical-sizing: auto;
+}
+
+.navbar,
+.nav-link,
+.section-subheading,
+.article-metadata,
+.btn {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* Reading measure and rhythm. */
+.article-style {
+  font-size: 1.02rem;
+  line-height: 1.72;
+
+  p {
+    max-width: 41em;      /* ~68 characters */
+    margin-bottom: 1.05rem;
+  }
+}
+
+/* Section titles: a quiet letterspaced label rather than a large heading,
+   which matches the CV and keeps the name the loudest thing on the page. */
+.section-heading h1,
+h1.section-heading,
+.home-section h1 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.86rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--gray-700, #4a4a4a);
+  margin-bottom: 1.6rem;
+}
+
+/* Name and role in the profile column. */
+.portrait-title h2 {
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  line-height: 1.2;
+}
+
+.portrait-title h3 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.94rem;
+  font-weight: 400;
+  line-height: 1.45;
+}
+
+/* Avatar: a soft ring instead of a hard edge. */
+.avatar.avatar-circle {
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.07);
+}
+
+/* Publications: tighter, more like a printed list. */
+.pub-list-item {
+  margin-bottom: 1.05rem;
+  line-height: 1.55;
+
+  .article-metadata {
+    font-size: 0.9rem;
+  }
+
+  .pub-icon {
+    opacity: 0.55;
+  }
+}
+
+/* Appointments. */
+.exp-title {
+  font-weight: 600;
+  letter-spacing: -0.006em;
+}
+
+/* Links: underline that clears the descenders instead of cutting them. */
+a {
+  text-underline-offset: 0.16em;
+  text-decoration-thickness: 0.06em;
+}
+
+/* Navigation and buttons should not be underlined by the global link rule. */
+.navbar a,
+.nav-link,
+.btn,
+.pub-list-item .btn {
+  text-decoration: none;
+}
+
+/* Section padding: generous but not cavernous. */
+.home-section {
+  padding-top: 3.6rem;
+  padding-bottom: 3.6rem;
+}
+
+@media (min-width: 992px) {
+  .home-section {
+    padding-top: 4.4rem;
+    padding-bottom: 4.4rem;
+  }
+}
+
+/* Sub-labels ("Research Areas", "Education") were larger than the section
+   heads above them, which inverted the hierarchy. */
+.section-subheading {
+  font-size: 1.02rem;
+  font-weight: 600;
+  letter-spacing: 0.005em;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+}
+
+/* Interests and education lists: drop the disc bullets for a cleaner column. */
+.ul-interests {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    padding: 0.16rem 0;
+  }
+}
+
+/* Full-width sections still need a readable measure. */
+.pub-list-item {
+  max-width: 56em;
+}
+
+/* Section labels sit on the same left edge as the content they head,
+   rather than centred over a left-aligned list. */
+.section-heading.text-center {
+  text-align: left !important;
+}

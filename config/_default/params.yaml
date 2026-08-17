@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: classic
+  theme_day: tolbert
+  theme_night: tolbert
+  font: tolbert
   font_size: M
 
 # SEO

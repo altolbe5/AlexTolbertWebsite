@@ -2,7 +2,7 @@
 title: "Reconciling Individual Probability Forecasts"
 authors:
   - Aaron Roth
-  - Alexander Tolbert
+  - Alexander Williams Tolbert
   - Scott Weinstein
 date: "2023-06-12"
 publication: "Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT), 101–110"

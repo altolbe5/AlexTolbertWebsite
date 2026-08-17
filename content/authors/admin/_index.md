@@ -50,4 +50,4 @@ I work at the intersection of machine learning, causal inference, and philosophy
 
 I completed my Ph.D. in Philosophy at the University of Pennsylvania alongside a Masters in Statistics from the Wharton School. Before that I took master's degrees in Biochemistry and Philosophy at Virginia Tech and a B.S. in Biology at the University of Mobile.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tolbert-cv-2026.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} [Download my CV](/uploads/tolbert-cv-2026.pdf)

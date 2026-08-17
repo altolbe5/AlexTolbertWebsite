@@ -1,13 +1,10 @@
 main:
-  - name: Home
+  - name: About
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#publications'  # Make sure this points to your publications widget
-    weight: 40
-  - name: Experience
-    url: '#experience'  # Add this line to link to your experience section
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+    url: '#publications'
+    weight: 20
+  - name: Appointments
+    url: '#experience'
+    weight: 30

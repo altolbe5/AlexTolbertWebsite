@@ -1,0 +1,36 @@
+# Theme metadata
+name = "Tolbert"
+
+[light]
+  # Primary — deep slate ink, restrained enough to sit under body text
+  primary = "#2c4a63"
+
+  # Menu — paper, so the name leads rather than the bar
+  menu_primary = "#fbfaf8"
+  menu_text = "#1f1f1f"
+  menu_text_active = "#2c4a63"
+  menu_title = "#111111"
+
+  # Links
+  link = "#2c4a63"
+  link_hover = "#14293a"
+  link_decoration = "underline"
+
+  # Home sections — warm paper alternating with white
+  home_section_odd = "#fbfaf8"
+  home_section_even = "#ffffff"
+
+[dark]
+  primary = "#9fc2da"
+
+  menu_primary = "#16191c"
+  menu_text = "#d7dade"
+  menu_text_active = "#9fc2da"
+  menu_title = "#f2f4f6"
+
+  link = "#9fc2da"
+  link_hover = "#c8ddea"
+  link_decoration = "underline"
+
+  home_section_odd = "#16191c"
+  home_section_even = "#1b1f23"
