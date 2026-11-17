@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Academic Appointments
 subtitle:
@@ -33,6 +33,7 @@ experience:
         Secondary appointments in Philosophy, Computer Science, and African American Studies.
         Faculty Fellow, Emory Center for Ethics. Faculty Affiliate, Center for Mind, Brain, and Culture.
 
+
   - title: Postdoctoral Fellow
     company: Emory University
     company_url: ''
@@ -41,6 +42,7 @@ experience:
     date_start: '2023-08-01'
     date_end: '2024-07-31'
     description:  
+
 
   - title: Research Scientist II Intern
     company: Amazon Web Services
@@ -51,6 +53,7 @@ experience:
     date_end: '2022-12-01'
     description: |2-
        
+
 
   - title: Research Scientist Intern
     company: Amazon Web Services
