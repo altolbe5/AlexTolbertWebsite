@@ -9,7 +9,8 @@ publication: "Proceedings of the 6th ACM Conference on Equity and Access in Algo
 publication_short: "EAAMO 2026"
 publication_types: ["1"]
 doi: "10.1145/3846167.3848596"
-url_pdf: "https://doi.org/10.48550/arXiv.2503.12784"
+url_publisher: "https://dl.acm.org/doi/abs/10.1145/3846167.3848596"
+url_pdf: "https://arxiv.org/pdf/2503.12784"
 ---
 
 Published version: [ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3846167.3848596)  
