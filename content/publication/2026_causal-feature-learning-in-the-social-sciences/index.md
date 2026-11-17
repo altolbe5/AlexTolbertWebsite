@@ -9,4 +9,5 @@ publication: "Proceedings of the ACM Conference on Equity and Access in Algorith
 publication_short: "EAAMO 2026"
 publication_types: ["1"]
 url_pdf: "https://doi.org/10.48550/arXiv.2503.12784"
+url_project: "https://eaamo-conference-2026.netlify.app/accepted_papers/"
 ---
