@@ -8,6 +8,7 @@ date: "2026-01-15"
 publication: "Proceedings of the 6th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2026)"
 publication_short: "EAAMO 2026"
 publication_types: ["1"]
+doi: "10.1145/3846167.3848596"
 url_pdf: "https://doi.org/10.48550/arXiv.2503.12784"
 ---
 
