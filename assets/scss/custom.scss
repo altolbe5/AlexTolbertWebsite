@@ -147,7 +147,7 @@ a {
 #media .article-style a[href*="youtube.com/watch"]:has(img[src*="img.youtube.com"]) {
   display: inline-block;
   position: relative;
-  width: min(100%, 680px);
+  width: 100%; max-width: 680px;
   overflow: hidden;
   border-radius: 0.75rem;
   line-height: 0;
