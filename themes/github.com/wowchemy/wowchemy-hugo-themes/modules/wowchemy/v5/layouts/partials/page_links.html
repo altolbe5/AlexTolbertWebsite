@@ -128,7 +128,8 @@
 </a>
 {{ end }}
 {{ with $page.Params.doi }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
+{{ $publisher_url := $page.Params.url_publisher | default (printf "https://doi.org/%s" .) }}
+<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $publisher_url }}" target="_blank" rel="noopener">
   Publisher
 </a>
 {{ end }}
